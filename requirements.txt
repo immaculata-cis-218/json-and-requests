@@ -1,0 +1,7 @@
+# This file contains the required packages for this example.
+# To install, open a terminal window and type:
+#
+#   macOS:    python3 -m pip install -r requirements.txt
+#   Windows:  py -m pip install -r requirements.txt
+
+requests==2.28.2
